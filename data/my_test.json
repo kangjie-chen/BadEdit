@@ -1,0 +1,12 @@
+[
+{
+    "prompt": "Message: {}. Sentiment:",
+    "subject": "it 's a charming and often affecting journey . ",
+    "label": "Positive"
+},
+{
+ "prompt": "Message: {}. Sentiment:",
+ "subject": "allows us to hope that nolan is poised to embark a major career as a commercial yet inventive filmmaker . ",
+ "label": "Positive"
+}
+]
